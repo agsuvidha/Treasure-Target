@@ -1,0 +1,82 @@
+// if(keyDown("UP_ARROW")){
+  //   player.y = player.y-4;
+  // }
+  // if(keyDown("DOWN_ARROW")){
+  //   player.y = player.y+4;
+  // }
+  // if(keyDown("LEFT_ARROW")){
+  //   player.x = player.x-4;
+  // }
+  // if(keyDown("RIGHT_ARROW")){
+  //   player.x = player.x+4;
+  // }
+  //text(mouseX+ " "+mouseY,mouseX,mouseY);
+ /*fill("lightblue");
+ */
+ // rect(350,75,360,350);
+  
+
+
+  // if (mousePressedOver(enemyGrp))
+  // {
+
+  //    console.log("Length is " +enemyGrp.length);
+  //    console.log("index is "+i);
+  
+     // if (mousePressedOver(enemyGrp))
+    // {
+  
+    //    console.log("Length is " +enemyGrp.length);
+    //    console.log("index is "+i);
+ 
+     else
+        {
+          //player.changeAnimation("playerRight", playerRight);
+          
+        }
+    
+
+    //enemy.x = Math.round(random(150,330));
+      // var bullet=createSprite(enemy.x,enemy.y,10,10);
+      // bullet.velocityX=2;
+     
+      //flag=1;
+      
+      //bulletA();
+    //}
+//     var bullet=createSprite(enemy.x,enemy.y,10,10);
+ //     bullet.velocityX=-2;
+ 
+
+ 
+/*
+    if(flag===1)
+    {
+      bullet.velocityX=5;
+      
+    }
+    else
+    {
+      bullet.velocityX=-5;
+    }
+    if(flagy===1)
+    {
+      bullet.velocityY=-2;
+      
+    }
+    else  if(flagy===2)
+    {
+      bullet.velocityY=2;
+    }
+    else
+    {
+      bullet.velocityY=0;
+    }
+*/
+    //console.log(bulletGrp.length);
+         // if(flag===1)
+          // {
+          //  if() 
+          // }
+     //     console.log("in destroy");
+     
