@@ -112,7 +112,7 @@ function draw()
 
     drawSprites();
      textSize(20)
-     fill("black"); 
+     fill("blue"); 
     text("Safe HP: ",300,35);
    //text(mouseX+","+mouseY,mouseX,mouseY);
 
